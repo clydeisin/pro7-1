@@ -1,0 +1,13 @@
+/*
+Theme Name:     Demo-child
+Theme URI:
+Description:    autofiix child theme.
+Author:         Me
+Author URI:
+Template:       autofiix
+Version:        1.0.0
+*/
+
+.widget_categories ul li:nth-child(n+10) {
+    display: none !important;
+}
